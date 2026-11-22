@@ -27,7 +27,7 @@ export const portfolioData = {
       period: "2023 – 2026",
       location: "Kigali, Rwanda",
       level: "BSc Degree",
-      badge: "In Progress / Final Year",
+      badge: "Graduated",
       description: "Focus on Enterprise Information Systems, Network Administration, Database Architectures, and AI-Powered Service Desk Solutions.",
       highlights: [
         "Final-Year Project: AI-Powered IT Help Desk Chatbot designed for NPD Ltd support operations",
